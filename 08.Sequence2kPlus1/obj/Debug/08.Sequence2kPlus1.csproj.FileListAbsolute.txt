@@ -1,0 +1,7 @@
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\08.Sequence2kPlus1\bin\Debug\08.Sequence2kPlus1.exe.config
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\08.Sequence2kPlus1\bin\Debug\08.Sequence2kPlus1.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\08.Sequence2kPlus1\bin\Debug\08.Sequence2kPlus1.pdb
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\08.Sequence2kPlus1\obj\Debug\08.Sequence2kPlus1.csprojAssemblyReference.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\08.Sequence2kPlus1\obj\Debug\08.Sequence2kPlus1.csproj.CoreCompileInputs.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\08.Sequence2kPlus1\obj\Debug\08.Sequence2kPlus1.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\08.Sequence2kPlus1\obj\Debug\08.Sequence2kPlus1.pdb

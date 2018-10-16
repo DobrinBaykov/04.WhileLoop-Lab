@@ -1,0 +1,7 @@
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\07.WaterDispenser\bin\Debug\07.WaterDispenser.exe.config
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\07.WaterDispenser\bin\Debug\07.WaterDispenser.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\07.WaterDispenser\bin\Debug\07.WaterDispenser.pdb
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\07.WaterDispenser\obj\Debug\07.WaterDispenser.csprojAssemblyReference.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\07.WaterDispenser\obj\Debug\07.WaterDispenser.csproj.CoreCompileInputs.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\07.WaterDispenser\obj\Debug\07.WaterDispenser.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\07.WaterDispenser\obj\Debug\07.WaterDispenser.pdb

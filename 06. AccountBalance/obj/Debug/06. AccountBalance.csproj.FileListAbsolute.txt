@@ -1,0 +1,7 @@
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\06. AccountBalance\bin\Debug\_06.AccountBalance.exe.config
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\06. AccountBalance\bin\Debug\_06.AccountBalance.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\06. AccountBalance\bin\Debug\_06.AccountBalance.pdb
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\06. AccountBalance\obj\Debug\06. AccountBalance.csprojAssemblyReference.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\06. AccountBalance\obj\Debug\06. AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\06. AccountBalance\obj\Debug\_06.AccountBalance.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\06. AccountBalance\obj\Debug\_06.AccountBalance.pdb

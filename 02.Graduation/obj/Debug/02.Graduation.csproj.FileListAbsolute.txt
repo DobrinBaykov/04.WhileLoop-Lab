@@ -1,0 +1,6 @@
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\02.Graduation\bin\Debug\02.Graduation.exe.config
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\02.Graduation\bin\Debug\02.Graduation.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\02.Graduation\bin\Debug\02.Graduation.pdb
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\02.Graduation\obj\Debug\02.Graduation.csproj.CoreCompileInputs.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\02.Graduation\obj\Debug\02.Graduation.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\02.Graduation\obj\Debug\02.Graduation.pdb

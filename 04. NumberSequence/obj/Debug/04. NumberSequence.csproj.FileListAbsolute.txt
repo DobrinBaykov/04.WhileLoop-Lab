@@ -1,0 +1,7 @@
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\04. NumberSequence\bin\Debug\_04.NumberSequence.exe.config
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\04. NumberSequence\bin\Debug\_04.NumberSequence.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\04. NumberSequence\bin\Debug\_04.NumberSequence.pdb
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\04. NumberSequence\obj\Debug\04. NumberSequence.csprojAssemblyReference.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\04. NumberSequence\obj\Debug\04. NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\04. NumberSequence\obj\Debug\_04.NumberSequence.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\04. NumberSequence\obj\Debug\_04.NumberSequence.pdb

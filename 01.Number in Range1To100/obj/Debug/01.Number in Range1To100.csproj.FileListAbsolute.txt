@@ -1,0 +1,6 @@
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\01.Number in Range1To100\bin\Debug\01.Number in Range1To100.exe.config
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\01.Number in Range1To100\bin\Debug\01.Number in Range1To100.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\01.Number in Range1To100\bin\Debug\01.Number in Range1To100.pdb
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\01.Number in Range1To100\obj\Debug\01.Number in Range1To100.csproj.CoreCompileInputs.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\01.Number in Range1To100\obj\Debug\01.Number in Range1To100.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\01.Number in Range1To100\obj\Debug\01.Number in Range1To100.pdb

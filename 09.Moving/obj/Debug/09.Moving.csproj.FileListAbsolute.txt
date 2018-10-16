@@ -1,0 +1,7 @@
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\09.Moving\bin\Debug\09.Moving.exe.config
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\09.Moving\bin\Debug\09.Moving.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\09.Moving\bin\Debug\09.Moving.pdb
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\09.Moving\obj\Debug\09.Moving.csprojAssemblyReference.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\09.Moving\obj\Debug\09.Moving.csproj.CoreCompileInputs.cache
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\09.Moving\obj\Debug\09.Moving.exe
+C:\Users\Dobrin\source\repos\04.WhileLoop-Lab\09.Moving\obj\Debug\09.Moving.pdb
